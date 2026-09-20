@@ -90,8 +90,9 @@ from an unusual character set (lowercase letters, `_` for black squares,
 
 ## Status
 
-Early. The grid model, parsing, and structural validation are in place.
-Word numbering, entry extraction, and grid generation are not written
+Early. The grid model, parsing, structural validation, and clue
+numbering (`Number`) are in place. Entry extraction, fill/pattern
+matching, grid generation, and .puz/.ipuz import/export are not written
 yet — see the roadmap in the issue tracker.
 
 ## License
